@@ -1,0 +1,2 @@
+# Los .zip van en las Releases, no en git
+*.zip
