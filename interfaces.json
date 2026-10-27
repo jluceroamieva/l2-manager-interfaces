@@ -5,54 +5,54 @@
                       "name":  "Custom",
                       "version":  "interfaces-2026-10-26",
                       "author":  "",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Custom.zip",
-                      "sha256":  "5d9ea88d907a87f75dd3712712c940e7c04b5ede88558dde82893f976967eed3",
-                      "size":  27346079,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Custom.zip",
+                      "sha256":  "9ed873e8c28d3f086e0d85277d725a0e18fcfbb57f9c1161091986a5d55dfcd9",
+                      "size":  27343513,
                       "installed":  151971741
                   },
                   {
                       "name":  "Silent Essence",
                       "version":  "interfaces-2026-10-26",
                       "author":  "Silent (Silent Interface)",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Silent.Essence.zip",
-                      "sha256":  "d1506edb78ff1d01a91f6da9e40b4ae24b8559d380b8131cf2e07eb37a543d7f",
-                      "size":  310432678,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Silent.Essence.zip",
+                      "sha256":  "c5d1d86bc0ce5be9991e886c9ff2359650413ba8a4dd9f39dc66269a76498253",
+                      "size":  310341552,
                       "installed":  952448825
                   },
                   {
                       "name":  "Silent_Classic",
                       "version":  "interfaces-2026-10-26",
                       "author":  "Silent (Silent Interface)",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Silent_Classic.zip",
-                      "sha256":  "2b27018d97d6036d0835b5a9740c52064e8c1628ab303e0a300aa0e347d39bed",
-                      "size":  58496689,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Silent_Classic.zip",
+                      "sha256":  "f1ceaa5312ab0d58dab392b52b9824b6539131a3fd0b1f81436d0767fa115e78",
+                      "size":  58488108,
                       "installed":  210441574
                   },
                   {
                       "name":  "Silent_DarkLite",
                       "version":  "Rev 1.7",
                       "author":  "Silent (Silent Interface)",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Silent_DarkLite.zip",
-                      "sha256":  "c1370e67a9e47eccde30587e23f1d8c3fd2b7c2da19cfe04fc483857477cc4e5",
-                      "size":  12920682,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Silent_DarkLite.zip",
+                      "sha256":  "2618e272aacad56756d776df9e1ef2b2099ffa95a10b5793e98836b064fa33fc",
+                      "size":  12920423,
                       "installed":  67615861
                   },
                   {
                       "name":  "Silent_Dark_R2",
                       "version":  "interfaces-2026-10-26",
                       "author":  "Silent (Silent Interface)",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Silent_Dark_R2.zip",
-                      "sha256":  "f6bdf8d859fc6a7930987e7e93ad269ffcaef44da2e2d0ef2b021db8f09f8ba6",
-                      "size":  118174463,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Silent_Dark_R2.zip",
+                      "sha256":  "e4c346da51a2197d9d41d36e3ff45726111d3d2d33e7e0ca661ff4794798b4a3",
+                      "size":  118112833,
                       "installed":  494286771
                   },
                   {
                       "name":  "Silent_Interlude",
                       "version":  "interfaces-2026-10-26",
                       "author":  "Silent (Silent Interface)",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-26/Silent_Interlude.zip",
-                      "sha256":  "abdc170299c731557a25d876d0b80618bc3a11e51372c67d4811069f859ebbe2",
-                      "size":  46091146,
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Silent_Interlude.zip",
+                      "sha256":  "32c16fd159983d2dfdda41075fe248df08899a3e623807db0575ca3ecd9202de",
+                      "size":  46082443,
                       "installed":  224250606
                   }
               ]
