@@ -11,7 +11,7 @@ Cada interfaz pertenece a su autor y se publica con su autorización. Cada `.zip
 | Interfaz | Autor |
 |---|---|
 | Silent Essence, Silent_Interlude, Silent_Classic, Silent_DarkLite, Silent_Dark_R2 | Silent (Silent Interface) |
-| Custom | Un jugador de Ordinary World |
+| Custom | Comunidad |
 
 Lineage II es una marca de NCSoft. Este proyecto no está afiliado a NCSoft ni a ningún servidor.
 

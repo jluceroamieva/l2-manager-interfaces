@@ -3,12 +3,12 @@
     "packs":  [
                   {
                       "name":  "Custom",
-                      "version":  "interfaces-2026-10-26",
-                      "author":  "",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-16/Custom.zip",
-                      "sha256":  "9ed873e8c28d3f086e0d85277d725a0e18fcfbb57f9c1161091986a5d55dfcd9",
-                      "size":  27343513,
-                      "installed":  151971741
+                      "version":  "interfaces-2026-10-27",
+                      "author":  "Comunidad",
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-27/Custom.zip",
+                      "sha256":  "a62f24fd64d695da61dd1caf920743930fc1d959ed541529196e250d05870425",
+                      "size":  27346083,
+                      "installed":  151971753
                   },
                   {
                       "name":  "Silent Essence",
