@@ -54,6 +54,15 @@
                       "sha256":  "32c16fd159983d2dfdda41075fe248df08899a3e623807db0575ca3ecd9202de",
                       "size":  46082443,
                       "installed":  224250606
+                  },
+                  {
+                      "name":  "WCK 1.0 - ENC",
+                      "version":  "1.0",
+                      "author":  "Wickness (WCK Interface)",
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-29/WCK.1.0.-.ENC.zip",
+                      "sha256":  "b095fb8fd7f966c25f6704d9dd0367b0b7073810afaaebd72ffc34e5db619a2e",
+                      "size":  118352343,
+                      "installed":  387990201
                   }
               ]
 }

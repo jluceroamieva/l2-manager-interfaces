@@ -12,6 +12,7 @@ Cada interfaz pertenece a su autor y se publica con su autorización. Cada `.zip
 |---|---|
 | Silent Essence, Silent_Interlude, Silent_Classic, Silent_DarkLite, Silent_Dark_R2 | Silent (Silent Interface) |
 | Custom | Comunidad |
+| WCK 1.0 - ENC | Wickness (WCK Interface) |
 
 Lineage II es una marca de NCSoft. Este proyecto no está afiliado a NCSoft ni a ningún servidor.
 
