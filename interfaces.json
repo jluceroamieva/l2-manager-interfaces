@@ -3,12 +3,12 @@
     "packs":  [
                   {
                       "name":  "Custom",
-                      "version":  "interfaces-2026-10-27",
-                      "author":  "Comunidad",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-10-27/Custom.zip",
-                      "sha256":  "a62f24fd64d695da61dd1caf920743930fc1d959ed541529196e250d05870425",
-                      "size":  27346083,
-                      "installed":  151971753
+                      "version":  "interfaces-2026-11-02",
+                      "author":  "Comunidad de L2",
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-02/Custom.zip",
+                      "sha256":  "caf38362762a6d3f338370342a06f9cc282f834c898839e4e382ebfd7541b72c",
+                      "size":  27346062,
+                      "installed":  151971749
                   },
                   {
                       "name":  "Silent Essence",
@@ -66,30 +66,30 @@
                   },
                   {
                       "name":  "Dandilos",
-                      "version":  "interfaces-2026-11-01",
+                      "version":  "interfaces-2026-11-02",
                       "author":  "Dandilos",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-01/Dandilos.zip",
-                      "sha256":  "e395f77f54439116ea3835aa283a2be977d707d98b88aa468e581853bfd10f9c",
-                      "size":  139630468,
-                      "installed":  411942143
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-02/Dandilos.zip",
+                      "sha256":  "995906b39b885c79c64a3aa9ac208d8417aef348ca1854ab00129270e97e88ff",
+                      "size":  139630507,
+                      "installed":  411942190
                   },
                   {
                       "name":  "Shooter",
-                      "version":  "interfaces-2026-11-01",
+                      "version":  "interfaces-2026-11-02",
                       "author":  "Shooter",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-01/Shooter.zip",
-                      "sha256":  "e9886f18012290aca92841781336dc943cebf51acf5ab52432bc4405244fa7df",
-                      "size":  61563806,
-                      "installed":  215999053
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-02/Shooter.zip",
+                      "sha256":  "bf10d7087f8e0008ebe7628dd6754a00b53b3721d9ab84a2edb5ec9497dbb461",
+                      "size":  61563851,
+                      "installed":  215999112
                   },
                   {
                       "name":  "Wellinton V3",
                       "version":  "3",
                       "author":  "Wellinton",
-                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-01/Wellinton.V3.zip",
-                      "sha256":  "e0df01801a28503936881eb0c218af8b860f392b6da14c0ab1b1974c824150db",
-                      "size":  48620505,
-                      "installed":  243567477
+                      "url":  "https://github.com/jluceroamieva/l2-manager-interfaces/releases/download/interfaces-2026-11-02/Wellinton.V3.zip",
+                      "sha256":  "82bb4decd8b5e58bdbbc0c1775726c13cc1c38698abf3e6446191891abc87960",
+                      "size":  48620562,
+                      "installed":  243567564
                   }
               ]
 }
