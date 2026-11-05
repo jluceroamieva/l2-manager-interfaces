@@ -11,8 +11,11 @@ Cada interfaz pertenece a su autor y se publica con su autorización. Cada `.zip
 | Interfaz | Autor |
 |---|---|
 | Silent Essence, Silent_Interlude, Silent_Classic, Silent_DarkLite, Silent_Dark_R2 | Silent (Silent Interface) |
-| Custom | Comunidad |
+| Custom | Comunidad de L2 |
 | WCK 1.0 - ENC | Wickness (WCK Interface) |
+| Dandilos | Dandilos |
+| Shooter | Shooter |
+| Wellinton V3 | Wellinton |
 
 Lineage II es una marca de NCSoft. Este proyecto no está afiliado a NCSoft ni a ningún servidor.
 
